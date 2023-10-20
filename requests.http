@@ -1,0 +1,8 @@
+## GetUnMessage
+GET http://localhost:3000/messages/12
+
+### GetLesMessages
+GET http://localhost:3000/messages
+
+####PostUnMessage
+POST http://localhost:3000/messages
