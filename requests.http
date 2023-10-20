@@ -6,3 +6,8 @@ GET http://localhost:3000/messages
 
 ####PostUnMessage
 POST http://localhost:3000/messages
+Content-Type: application/json
+
+{
+    "content": "Kikou"
+}
